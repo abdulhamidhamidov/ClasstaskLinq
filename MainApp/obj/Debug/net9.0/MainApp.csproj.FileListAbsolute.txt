@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\LINQ\MainApp\bin\Debug\net9.0\MainApp.exe
+C:\Users\ASUS\Desktop\LINQ\MainApp\bin\Debug\net9.0\MainApp.deps.json
+C:\Users\ASUS\Desktop\LINQ\MainApp\bin\Debug\net9.0\MainApp.runtimeconfig.json
+C:\Users\ASUS\Desktop\LINQ\MainApp\bin\Debug\net9.0\MainApp.dll
+C:\Users\ASUS\Desktop\LINQ\MainApp\bin\Debug\net9.0\MainApp.pdb
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\MainApp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\MainApp.sourcelink.json
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\MainApp.dll
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\refint\MainApp.dll
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\MainApp.pdb
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\MainApp.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\LINQ\MainApp\obj\Debug\net9.0\ref\MainApp.dll
